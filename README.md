@@ -3,7 +3,7 @@ Magento 2 Marketplace Vendor Vacation Extension is a plugin of Magebay Multi Ven
 
 See more detail Marketplace Vendor Vacation Extension: [Magento Marketplace Vendor Vacation Extension](https://www.magebay.com/magento-marketplace-vendor-vacation)
 
-See more detail Magento 2 Multi Vendor Extension by Magebay: [Magento 2 Multi Vendor Extension](https://www.magebay.com/magento-multi-vendor-marketplace-extension)
+See more detail Magebay Multi Vendor: [Magento Multi Vendor](https://www.magebay.com/magento-multi-vendor-marketplace-extension)
 
 ## Top Features of Marketplace Vendor Vacation Extension for Magento 2
 - Allow Seller/Vendor can turn on / turn off Vacation Mode for their store
@@ -14,4 +14,6 @@ See more detail Magento 2 Multi Vendor Extension by Magebay: [Magento 2 Multi Ve
 - 100% open source, easy to customize.
 - Support multiple store , multiple languages
 
-Please let us know if you have any questions by submitting the issues or [Contact us](https://www.magebay.com/about-us/)
+Please let us know if you have any questions by submitting the issues.
+
+Related plugins: [Magento Marketplace Seller Price Comparison Extension](https://github.com/magebaycom/magento-marketplace-seller-price-comparison)
